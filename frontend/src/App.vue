@@ -78,7 +78,6 @@ export default {
 </script>
 
 <style scoped>
-/* 通用布局 */
 .header-content {
   display: flex;
   align-items: center;
